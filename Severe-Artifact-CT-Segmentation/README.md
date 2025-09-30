@@ -17,12 +17,19 @@ Accurate segmentation of core CT images is crucial for digital rock physics anal
 
 📁 Project Structure
 text
+
 Core-CT-Segmentation/
+
 ├── data/                    # Data directory
+
 ├── pre_data/               # Data preprocessing (Radon transform)
+
 ├── visual_analysis/        # Result visualization and analysis
+
 ├── requirements.txt        # Python dependencies
+
 └── README.md
+
 
 🚀 Quick Start
 Prerequisites
@@ -46,10 +53,6 @@ python radon_transform.py
 Usage
 Training and inference:
 
-bash
-cd run
-bash mla_facies.sh
-Alternative execution:
 
 bash
 bash mla_core_seg.sh
@@ -60,6 +63,7 @@ Visualization:
 bash
 cd ../visual_analysis
 python result_visualization.py
+
 🔧 Key Features
 Artifact Robustness: Effective handling of heavy-mineral-induced artifacts
 
