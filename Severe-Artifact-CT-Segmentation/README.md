@@ -83,4 +83,4 @@ Robust performance with significant annotation variations
 Superior results compared to traditional methods
 
 🙏 Acknowledgement
-This work is based on Cross-Domain-Foundation-Model-Adaptation.
+Many thanks for the inspiration of Cross-Domain-Foundation-Model-Adaptation(https://github.com/ProgrammerZXG/Cross-Domain-Foundation-Model-Adaptation).
